@@ -2,9 +2,13 @@
 URL Shortening Service that shortens url 
 
 ## Stack
+```
+
 Redis in-memory server, 
 Java Spring Framework,
 IDE- Inteli-J
+
+```
 
 ## Test Environment
 Postman
